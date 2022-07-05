@@ -1,0 +1,11 @@
+print('hello 6/14')
+print('Parunyu')
+print('Phunsuntia')
+print('Chonrasadornumrung School')
+print('17 years old')
+print('74 kg')
+print('174 cm')
+print('Swifties')
+print('Scare snails')
+print('look a like Irene from Red Velvet')
+# ภรัณยู ผันสันเทียะ 18
